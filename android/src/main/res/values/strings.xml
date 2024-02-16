@@ -49,12 +49,7 @@
         If you have improvements regarding the content or want to help translate you can use <a href="https://github.com/ligi/SurvivalManual/wiki">this wiki.</a><br/>
         If you want the latest features and like to live on the bleeding edge, <a href="https://play.google.com/apps/testing/org.ligi.survivalmanual">join the beta testers.</a>
         <br/>
-        This app uses the android-support-libraries,
-        <a href="http://kotlinlang.org">Kotlin</a>,
-        <a href="https://github.com/MichaelRocks/bimap/">BiMap</a>,
-        <a href="https://github.com/chibatching/Kotpref">KotPref</a>,
-        <a href="https://github.com/rjeschke/txtmark">TxtMark</a>
-        and <a href="https://github.com/ligi/SnackEngage">SnackEngage</a>
+        This app uses the android-support-libraries and <a href="http://kotlinlang.org">Kotlin</a>.
         ]]>
     </string>
     <string name="system">System</string>

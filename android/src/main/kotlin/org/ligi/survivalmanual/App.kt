@@ -7,6 +7,7 @@ class App : Application() {
 
     override fun onCreate() {
         super.onCreate()
+        State.init(this)
         State.applyDayNightMode()
     }
 }

@@ -4,4 +4,9 @@
     <string name="preference_key_edittoggle" translatable="false">EDITTOGGLE</string>
     <string name="preference_key_fontsize" translatable="false">FONTSIZETOGGLE</string>
     <string name="preference_key_select_text" translatable="false">SELECTTEXTTOGGLE</string>
+
+    <string name="preference_key_isInitialOpening" translatable="false">isInitialOpening</string>
+    <string name="preference_key_lastVisitedURL" translatable="false">lastVisitedURL</string>
+    <string name="preference_key_lastScrollPos" translatable="false">lastScrollPos</string>
+    <string name="preference_key_searchTerm" translatable="false">searchTerm</string>
 </resources>
